@@ -1,0 +1,1 @@
+g++ main.cpp -o prog -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
